@@ -1,0 +1,9 @@
+D:\Estudos\DDD\EstruturaBase\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Estudos\DDD\EstruturaBase\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Estudos\DDD\EstruturaBase\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Estudos\DDD\EstruturaBase\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Estudos\DDD\EstruturaBase\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Estudos\DDD\EstruturaBase\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Estudos\DDD\EstruturaBase\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Estudos\DDD\EstruturaBase\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\Estudos\DDD\EstruturaBase\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
