@@ -1,4 +1,6 @@
 D:\Estudos\DDD\EstruturaBase\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+D:\Estudos\DDD\EstruturaBase\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\Estudos\DDD\EstruturaBase\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
 D:\Estudos\DDD\EstruturaBase\Application\bin\Debug\netcoreapp3.1\Application.dll
 D:\Estudos\DDD\EstruturaBase\Application\bin\Debug\netcoreapp3.1\Application.pdb
 D:\Estudos\DDD\EstruturaBase\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
@@ -6,5 +8,3 @@ D:\Estudos\DDD\EstruturaBase\Application\obj\Debug\netcoreapp3.1\Application.Ass
 D:\Estudos\DDD\EstruturaBase\Application\obj\Debug\netcoreapp3.1\Application.dll
 D:\Estudos\DDD\EstruturaBase\Application\obj\Debug\netcoreapp3.1\Application.pdb
 D:\Estudos\DDD\EstruturaBase\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
-D:\Estudos\DDD\EstruturaBase\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
-D:\Estudos\DDD\EstruturaBase\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json

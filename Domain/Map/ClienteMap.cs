@@ -1,6 +1,7 @@
 ﻿using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using System;
 
 namespace Domain.Map
 {
@@ -22,10 +23,12 @@ namespace Domain.Map
                 .IsRequired();
 
             builder.Property(x => x.Ativo)
-                .HasDefaultValue(false);
+                .HasDefaultValue(0);
 
             builder.Property(x => x.DataCadastro)
-                .HasDefaultValueSql("getdate()");
+                .HasDefaultValue(DateTime.Now);
+
+            builder.ToTable("Cliente");
         }
     }
 }
